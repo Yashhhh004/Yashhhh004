@@ -12,6 +12,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashhhh004/Yashhhh004/output/github-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Yashhhh004/Yashhhh004/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
 ## 👨‍💻 About Me
 
 - 🔭 Backend Engineer with **1+ years** of experience building and maintaining **GraphQL and REST APIs**
